@@ -7,7 +7,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/coin-dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="assets/coin-light.gif">
-  <img src="assets/coin-dark.gif" align="right" width="150" alt="3D spinning coin, generated from a flat logo by 3d-logo-skill">
+  <img src="assets/coin-dark.gif" align="right" width="120" alt="3D spinning coin, generated from a flat logo by 3d-logo-skill">
 </picture>
 
 Senior frontend dev (React, Next.js, AWS) building small SaaS and the agent tooling I wish existed for Claude Code. Everything below is public and running.
