@@ -9,7 +9,7 @@ Frontend dev (React, Next.js, Three.js) building agent skills and tooling for Cl
 
 ### [3d-logo-skill](https://github.com/hasuwini77/3d-logo-skill) — any flat logo → a 3D spinning coin
 
-<a href="https://hasuwini77.github.io/3d-logo-skill/"><img src="https://raw.githubusercontent.com/hasuwini77/3d-logo-skill/main/screenshots/coins.webp" width="100%" alt="Three enamel-pin logos spinning as 3D coins; the chrome rim traces each logo's real outline"></a>
+<a href="https://hasuwini77.github.io/3d-logo-skill/"><img src="assets/coins.webp" width="100%" alt="Three enamel-pin logos spinning as 3D coins; the chrome rim traces each logo's real outline"></a>
 
 ```bash
 npx skills add hasuwini77/3d-logo-skill
