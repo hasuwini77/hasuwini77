@@ -4,22 +4,13 @@
   <img alt="HASUWINI77 — frontend dev, agent tooling for Claude Code" src="assets/header-dark.svg" width="100%">
 </picture>
 
-Frontend dev (React, Next.js, Three.js) building agent skills and tooling for Claude Code.
-[devdwin.com](https://devdwin.com "Personal site")
+Frontend dev (React, Next.js, Three.js) building agent tooling for Claude Code · [devdwin.com](https://devdwin.com "Personal site")
 
-### [3d-logo-skill](https://github.com/hasuwini77/3d-logo-skill) — any flat logo → a 3D spinning coin
+<a href="https://hasuwini77.github.io/3d-logo-skill/" title="Try 3d-logo-skill live"><img align="right" width="140" src="assets/coins.webp" alt="Three logos as 3D coins; the chrome rim traces each logo's outline"></a>
 
-<a href="https://hasuwini77.github.io/3d-logo-skill/"><img src="assets/coins.webp" width="100%" alt="Three enamel-pin logos spinning as 3D coins; the chrome rim traces each logo's real outline"></a>
-
-```bash
-npx skills add hasuwini77/3d-logo-skill
-```
-
-The rim traces your logo's actual outline, not a circle. [Try it live →](https://hasuwini77.github.io/3d-logo-skill/)
-
-### Also building
-
-- [demo-reel](https://github.com/hasuwini77/demo-reel) — frame-exact 60 fps demo videos of any web app, recorded from a script
-- [ccstatusline-nocturne](https://github.com/hasuwini77/ccstatusline-nocturne) — status line themes for Claude Code: two layouts, five palettes
-- [claude-pulse](https://github.com/hasuwini77/claude-pulse) — live Claude usage HUD: 5-hour and weekly windows, reset countdowns
-- [herdr-spinner](https://github.com/hasuwini77/herdr-spinner) — animated braille spinner for busy Herdr panes
+- [agentille](https://github.com/hasuwini77/agentille) — orchestration plugin for Claude Code
+- [3d-logo-skill](https://github.com/hasuwini77/3d-logo-skill) — any flat logo → a 3D spinning coin · [try it](https://hasuwini77.github.io/3d-logo-skill/ "Live demo")
+- [demo-reel](https://github.com/hasuwini77/demo-reel) — frame-exact 60 fps demo videos of any web app, from a script
+- [worktree-fleet](https://github.com/hasuwini77/worktree-fleet) — parallel Claude Code / Codex builds on Herdr, one worktree per task
+- [claude-pulse](https://github.com/hasuwini77/claude-pulse) · [ccstatusline-nocturne](https://github.com/hasuwini77/ccstatusline-nocturne) — usage HUD and status line themes for Claude Code
+- Herdr plugins: [herdr-spinner](https://github.com/hasuwini77/herdr-spinner) · [herdr-tab-git](https://github.com/hasuwini77/herdr-tab-git) · [herdr-follow-cwd](https://github.com/hasuwini77/herdr-follow-cwd)
