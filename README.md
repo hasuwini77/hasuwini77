@@ -10,4 +10,3 @@ Frontend dev (React, Next.js, Three.js) building agent tooling for Claude Code �
 
 - [agentille](https://github.com/hasuwini77/agentille) — orchestration plugin for Claude Code
 - [3d-logo-skill](https://github.com/hasuwini77/3d-logo-skill) — any flat logo → a 3D spinning coin · [try it](https://hasuwini77.github.io/3d-logo-skill/ "Live demo")
-- Herdr plugins: [herdr-spinner](https://github.com/hasuwini77/herdr-spinner) · [herdr-tab-git](https://github.com/hasuwini77/herdr-tab-git) · [herdr-follow-cwd](https://github.com/hasuwini77/herdr-follow-cwd)
