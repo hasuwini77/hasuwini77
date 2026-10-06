@@ -10,7 +10,4 @@ Frontend dev (React, Next.js, Three.js) building agent tooling for Claude Code �
 
 - [agentille](https://github.com/hasuwini77/agentille) — orchestration plugin for Claude Code
 - [3d-logo-skill](https://github.com/hasuwini77/3d-logo-skill) — any flat logo → a 3D spinning coin · [try it](https://hasuwini77.github.io/3d-logo-skill/ "Live demo")
-- [demo-reel](https://github.com/hasuwini77/demo-reel) — frame-exact 60 fps demo videos of any web app, from a script
-- [worktree-fleet](https://github.com/hasuwini77/worktree-fleet) — parallel Claude Code / Codex builds on Herdr, one worktree per task
-- [claude-pulse](https://github.com/hasuwini77/claude-pulse) · [ccstatusline-nocturne](https://github.com/hasuwini77/ccstatusline-nocturne) — usage HUD and status line themes for Claude Code
 - Herdr plugins: [herdr-spinner](https://github.com/hasuwini77/herdr-spinner) · [herdr-tab-git](https://github.com/hasuwini77/herdr-tab-git) · [herdr-follow-cwd](https://github.com/hasuwini77/herdr-follow-cwd)
