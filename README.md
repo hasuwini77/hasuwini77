@@ -8,5 +8,7 @@ Frontend dev (React, Next.js, Three.js) building agent tooling for Claude Code �
 
 <a href="https://hasuwini77.github.io/3d-logo-skill/" title="Try 3d-logo-skill live"><img align="right" width="140" src="assets/coins.webp" alt="Three logos as 3D coins; the chrome rim traces each logo's outline"></a>
 
-- [agentille](https://github.com/hasuwini77/agentille) — orchestration plugin for Claude Code
 - [3d-logo-skill](https://github.com/hasuwini77/3d-logo-skill) — any flat logo → a 3D spinning coin · [try it](https://hasuwini77.github.io/3d-logo-skill/ "Live demo")
+- [demo-reel](https://github.com/hasuwini77/demo-reel) — frame-exact 60 fps demo videos of any web app, from a script
+- [fresh-ctx](https://github.com/hasuwini77/fresh-ctx) — automatic context handoff for Claude Code
+- [herdr-spinner](https://github.com/hasuwini77/herdr-spinner) — animated braille spinner for Herdr panes
